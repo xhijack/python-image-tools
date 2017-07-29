@@ -3,7 +3,7 @@ All about images tools using python
 
 Install PIL
 ```
-sudo pip install pil
+sudo pip install pillow
 ```
 
 from mass_image_resizer import PicMassResizer
